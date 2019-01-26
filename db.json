@@ -1,0 +1,1 @@
+{"data":[{"id":1,"task":"Turn on the bulb when the temperature in greater than 28","working_condition":1,"depending_value":"Temperature","action":"123"},{"id":2,"task":"Trun on the second bulb when the temperature is greater than 30","working_condition":0,"depending_value":"Temperature","action":"124"}]}
